@@ -1,5 +1,6 @@
 #include <cstdio>
 
+// first change for git
 struct Bla
 {
 	int m_a	;
