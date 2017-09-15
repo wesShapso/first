@@ -3,13 +3,13 @@
 // first change for git
 struct Bla
 {
-	int m_a	;
+	int m_a;
 	int m_magicNumber;
 };
 
 struct Mla
 {
-	int m_m;
+	int m_id;
 	int m_s;
 };
 
